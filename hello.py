@@ -1,4 +1,5 @@
 print 'hello'
+print '0000'
 print 'text'
 print 'text2--dev'
 print 'test3---master'
